@@ -1,0 +1,1 @@
+A_VAR = 'A_VALUE'
